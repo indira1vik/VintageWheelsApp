@@ -7,4 +7,6 @@ Below are attached screen-shots.</br>
 ![image](https://user-images.githubusercontent.com/90179632/219952867-73713af9-3e10-4c5e-b74b-2fc8987c983f.png)
 ![image](https://user-images.githubusercontent.com/90179632/219952872-a08478db-ffee-4106-85d2-b8415134d3af.png)
 
+<div style="width: 60%; height: 60%">![image](https://user-images.githubusercontent.com/90179632/219952847-0de6c256-2095-4905-9a8d-e5cbd166c111.png)</div>
+
 **Please do Download from the release link.**
